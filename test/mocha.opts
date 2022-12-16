@@ -1,0 +1,4 @@
+--require ./test/helper.js
+--require babel-core/register
+--reporter list
+--ui bdd
